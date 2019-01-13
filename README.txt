@@ -9,17 +9,16 @@ Group Memebers : Merve Nur DUTĞUN  210206010
 
 
 Server Side  :                                    Client Side :
--------> cd /MerveNur_Kevser/server               ------> cd /MerveNur_Kevser/client
+-------> cd server                                ------> cd /client
 
 -------> make server                              ------> make client
 
 -------> ./server                                 ------> ./client
 
                                                   ------> type the name of file that you want to download
-
-												  ------> Look at the /MerveNur_Kevser/client directory
-														  The file is there... (imge.pgm is not working properly, 
-																			    We couldm't get it work)
+						  												                                          ------> Look at the /MerveNur_Kevser/client directory
+							The file is there... (imge.pgm is not working properly, 
+									    We couldm't get it work)
 
 
 THE REFERCES FOR CODE
